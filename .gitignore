@@ -1,0 +1,9 @@
+.venv/
+app.log
+*.log
+
+static/uploads/*
+!static/uploads/.gitkeep
+
+static/processed/*
+!static/processed/.gitkeep
